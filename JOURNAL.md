@@ -34,3 +34,18 @@ Use this to figure out what pins the IC can actually connect to (https://datashe
 DRC finally has no complaints! I hate rewiring though. Time to add the CAN transmitter (https://www.ti.com/lit/ds/symlink/sn65hvd230.pdf?ts=1751731839553). Yippee JLCPCB has it as a part (how much does assembly cost... I'm scared this'll be super super expensive). We're doing split termination on the CAN bus because we can. Also because I dunno if my signal will be clear at all so I'd much rather have a working CAN bus than a dysfunctional one. I finished schematic-ing up the CAN controller, the MCP2515 and the transmitter, the SN65HVD230DR.
 
 ![CAN Done](img/5.png)
+
+# 2025-07-07 - Breakout (8 hours)
+
+https://youtu.be/ySuUZEjARPY
+Goated video.
+
+Finished the schematic. Hopefully.
+
+![Headers done](img/6.png)
+
+Added all footprints.
+
+![One big rat](img/7.png)
+
+That was a total mess. I'll finish the rest of it tomorrow. Routing the CAN chip looks fun. The lines are all crossed and I'm scared that the vias will mess up the ground plane somehow.
