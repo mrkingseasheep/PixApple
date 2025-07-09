@@ -61,8 +61,10 @@ Routing this is a pain. I'm using 0603 SMT parts because I want to practice sold
 
 ![PCB Design 101](img/10.png)
 
-# 2025-07-09 - FINALLY
+# 2025-07-09 - FINALLY (5 hours)
 
 It's done! Holy... It's been a journey. Routing the end was a pain and I'm 99% sure that the 0.9mm wide power traces will be fine. I didn't quite manage to use all the capacitors for the +3V3 but it should be fine. I think I might just finish by adding a connector for a battery or external +5V input. But then I'm done! Also the beveled edges are quite nice.
 
 ![99% Completion](img/11.png)
+
+Wait I just realized I need to fix the soldermask now oh dear. This'll be painful.
