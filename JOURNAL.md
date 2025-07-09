@@ -50,8 +50,13 @@ Added all footprints.
 
 That was a total mess. I'll finish the rest of it tomorrow. Routing the CAN chip looks fun. The lines are all crossed and I'm scared that the vias will mess up the ground plane somehow.
 
-# 2025-07-08 - Redo (2 hours)
+# 2025-07-08 - Redo (6 hours)
 
 Ok so uh I might be stupid and I might have placed all my components too close together. And uhhh... Well whoops they intersect physically so it's time for a complete redo. Yay. I'm having fun! (it is kinda fun though)
 
 ![Yet Another Redo](img/8.png)
+![Going well so far](img/9.png)
+
+Routing this is a pain. I'm using 0603 SMT parts because I want to practice soldering SMTs however that means that I can't fit my desired number of capacitors on the board. There's simply too many of them at the top of the RP2040 there. Alas.
+
+![PCB Design 101](img/10.png)
