@@ -49,3 +49,9 @@ Added all footprints.
 ![One big rat](img/7.png)
 
 That was a total mess. I'll finish the rest of it tomorrow. Routing the CAN chip looks fun. The lines are all crossed and I'm scared that the vias will mess up the ground plane somehow.
+
+# 2025-07-08 - Redo (2 hours)
+
+Ok so uh I might be stupid and I might have placed all my components too close together. And uhhh... Well whoops they intersect physically so it's time for a complete redo. Yay. I'm having fun! (it is kinda fun though)
+
+![Yet Another Redo](img/8.png)

@@ -4771,7 +4771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ABM8-16.000MHZ-B2-T-Alt:XTAL_ABM8-16.000MHZ-B2-T"
+		(property "Footprint" "ABM8-16.000MHZ-B2-T:XTAL_ABM8-16.000MHZ-B2-T"
 			(at 50.8 86.36 0)
 			(effects
 				(font
