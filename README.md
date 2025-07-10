@@ -16,7 +16,7 @@ Total time spent: 35 hours (I'm still so slow at KiCAD)
 This is my first semi-intermediate project and I wanted to learn more about ICs in general. I've incorporated: wide power traces, equal length wires and a ground pour on top and bottom in this project.
 
 ![Schematic](img/14.png)
-![PCB](img/12.png)
+![PCB](img/15.png)
 ![3D](img/13.png)
 
 Case design coming soon! Check out the Case/ subdirectory!

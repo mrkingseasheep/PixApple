@@ -5,7 +5,7 @@ description: "RP2040 Development Board"
 created_at: "2025-07-04"
 ---
 
-Total time spent: 35 hours (yes I'm slow)
+Total time spent: 38 hours (yes I'm slow)
 
 # 2025-07-04 - Where to begin (5 hours)
 
@@ -75,3 +75,7 @@ All that's left is to add some decorative silkscreen and it'll be ready to ship.
 
 ![We done](img/12.png)
 ![Front](img/13.png)
+
+# 2025-07-10 - Final notes (3 hours)
+
+Fixed the +3V3 and +1V1 rails, added ESD protection, better edge.cuts
