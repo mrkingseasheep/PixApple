@@ -68,3 +68,8 @@ It's done! Holy... It's been a journey. Routing the end was a pain and I'm 99% s
 ![99% Completion](img/11.png)
 
 Wait I just realized I need to fix the soldermask now oh dear. This'll be painful.
+Update: It's done. I've added a power pin for battery power, diodes to prevent overflow, and a ground pour on the top layer.
+All that's left is to add some decorative silkscreen and it'll be ready to ship.
+
+![We done](img/12.png)
+![Front](img/13.png)
