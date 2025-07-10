@@ -2,6 +2,8 @@
 
 PixApple is designed as a RP2040 breakout board. It features 8 general use GPIOs, 1 SPI interface, 1 I2C interface, 4 ADC channels, 4 PWM channels and a CAN bus.
 I designed it because I wanted a board that I could use for general purpose robotics projects. Being from FRC, a CAN bus was a must so I added the CAN bus onto the RP2040 with split terminations.
+The Roborio is like 2000CAD so it's so far out of reach its funny. Of course, I don't need the real time OS or the robust nature of the thing, I just want to drive a lil car or something. So I created this!
+Building this project really gave me a greater understanding of what went on undernearth the Roborio (I never did open it) and everything actually kinda makes sense now.
 I chose the RP2040 because it is cheap, decently powerful for the basic robotics I plan on doing with it and is also what I'm used to.
 Additionally, I chose the 0603 SMT format because I wanted to be able to fix any problems I have later on with this board.
 This being V1.0, many of the values are not tested and I wanted the ability to fix them if anything happened.
@@ -12,6 +14,14 @@ Finally, there are test points scattered around the board for easy debugging.
 Total time spent: 35 hours (I'm still so slow at KiCAD)
 
 This is my first semi-intermediate project and I wanted to learn more about ICs in general. I've incorporated: wide power traces, equal length wires and a ground pour on top and bottom in this project.
+
+Total cost: ~100CAD (Most of this is just because I have no 0603's at all. I pinky promise all my future projects will be infinitely cheaper)
+
+![Schematic](img/14.png)
+![PCB](img/12.png)
+![3D](img/13.png)
+
+Case design coming soon! Check out the Case/ subdirectory!
 
 ## BOM
 
@@ -48,11 +58,3 @@ I know this is quite a high BOM but I don't have any components. istg it'll be s
 | ABM8-272-T3 --- XTAL_ABM8-272-T3                        | 1        | X     | JLCPCB Assembly                                                                                                                                                  |
 | ABM8-16.000MHZ-B2-T --- XTAL_ABM8-16.000MHZ-B2-T        | 1        | X     | JLCPCB Assembly                                                                                                                                                  |
 | JLCPCB Assembled PCB                                    | 1        | 58    | JLCPCB Assembly                                                                                                                                                  |
-
-Total cost: ~100CAD (Most of this is just because I have no 0603's at all. I pinky promise all my future projects will be infinitely cheaper)
-
-![Schematic](img/14.png)
-![PCB](img/12.png)
-![3D](img/13.png)
-
-Case design coming soon! Check out the Case/ subdirectory!

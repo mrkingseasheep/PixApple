@@ -5,6 +5,8 @@ description: "RP2040 Development Board"
 created_at: "2025-07-04"
 ---
 
+Total time spent: 35 hours (yes I'm slow)
+
 # 2025-07-04 - Where to begin (5 hours)
 
 This is a starter project so I can learn how to actually design a keyborad with the RP2040.
