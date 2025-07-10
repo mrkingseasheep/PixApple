@@ -56,4 +56,4 @@ I know this is quite a high BOM but I don't have any components. istg it'll be s
 | ABM8-272-T3 --- XTAL_ABM8-272-T3                        | 1        | 0.30     |            |                  | JLCPCB Assembly                                       |
 | ABM8-16.000MHZ-B2-T --- XTAL_ABM8-16.000MHZ-B2-T        | 1        | 0.50     |            |                  | JLCPCB Assembly                                       |
 | JLCPCB Assembled PCB                                    | 1        | 58       | 58         |                  | JLCPCB Assembly                                       |
-| Total                                                   |          | 65.58    |            |                  |                                                       |
+| Total                                                   |          | 65.58    | 100        |                  |                                                       |
