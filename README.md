@@ -55,6 +55,5 @@ I know this is quite a high BOM but I don't have any components. istg it'll be s
 | MCP2515-xSO --- SOIC-18W_7.5x11.6mm_P1.27mm             | 1        | 1.59     |            |                  | JLCPCB Assembly                                       |
 | ABM8-272-T3 --- XTAL_ABM8-272-T3                        | 1        | 0.30     |            |                  | JLCPCB Assembly                                       |
 | ABM8-16.000MHZ-B2-T --- XTAL_ABM8-16.000MHZ-B2-T        | 1        | 0.50     |            |                  | JLCPCB Assembly                                       |
-| JLCPCB Assembled PCB                                    | 1        |          | 58         |                  | JLCPCB Assembly                                       |
-
-Total cost: ~100CAD (Most of this is just because I have no 0603's at all. I pinky promise all my future projects will be infinitely cheaper)
+| JLCPCB Assembled PCB                                    | 1        | 58       | 58         |                  | JLCPCB Assembly                                       |
+| Total                                                   |          | 65.58    |            |                  |                                                       |
