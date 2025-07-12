@@ -79,3 +79,22 @@ All that's left is to add some decorative silkscreen and it'll be ready to ship.
 # 2025-07-10 - Final notes (3 hours)
 
 Fixed the +3V3 and +1V1 rails, added ESD protection, better edge.cuts
+
+![New and improved](img/15.png)
+
+# 2025-07-11 - Restarting (3 hours)
+
+Oh dear it's all bad gonna restart. Redo the differential pairs (CAN and USB), better routing.
+
+# 2025-07-12 - Routing gone good (13 hours)
+
+New schematic. New pcb grouping. I'm pooped. I'm putting the SMT components closer together now to hopefully make things more efficient??
+
+![CAN New](img/16.png)
+![RP2040 Schematic](img/17.png)
+
+The grind never stops. Complete overhaul, new modules (using an oscillator), 4 layer board WITHIN the 50mmx50mm limits (I'm so proud of this). Inner two ground planes. Using TCAN337 instead of old CAN transciever. ESD protection on USB datalines, VBUS and CAN headers. I'm so tired.
+
+![Rainbow PCB](img/18.png)
+![Just the lines](img/19.png)
+![ITS BEAUTIFUL](img/20.png)
