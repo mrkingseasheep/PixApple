@@ -22,8 +22,6 @@ This is my first semi-intermediate project and I wanted to learn more about ICs 
 
 ## BOM
 
-I know this is quite a high BOM but I don't have any components. istg it'll be so much cheaper from now on.
-
 | Quantity | Value                       | Cost    | URL                                                                                                                                                    |
 | -------- | --------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 17       | Capacitor 100n              | 0.068   | https://www.aliexpress.com/item/1005002782324319.html                                                                                                  |
