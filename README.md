@@ -52,5 +52,8 @@ This is my first semi-intermediate project and I wanted to learn more about ICs 
 | 1        | ASE-12MHz                   | 1.56    | https://www.mouser.ca/ProductDetail/ABRACON/ASE-12.000MHZ-ET?qs=uDmhV2jwPRcj2BLg3gv24Q%3D%3D                                                           |
 | 1        | ASE-16MHz                   | 1.53    | https://www.mouser.ca/ProductDetail/ABRACON/ASE-16.000MHZ-LC-T?qs=gt1LBUVyoHnfDWzQTg2whA%3D%3D                                                         |
 | 1        | PCB                         | 75      | JLCPCB Assembly                                                                                                                                        |
+| 2        | Heat set insert             | 0.10    | https://www.aliexpress.com/item/1005007653131713.html                                                                                                  |
+| 2        | M2                          | 0.08    | https://www.aliexpress.com/item/32810872544.html                                                                                                       |
+| 1        | Case                        | 5       | Printing Legion                                                                                                                                        |
 
-Total: 75 CAD
+Total: 80 CAD
