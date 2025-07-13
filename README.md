@@ -11,49 +11,44 @@ Finally, there are test points scattered around the board for easy debugging.
 
 ## What I've gained
 
-Total time spent: 35 hours (I'm still so slow at KiCAD)
+Total time spent: 51 hours (I'm still so slow at KiCAD) (the redo didn't help)
 
 This is my first semi-intermediate project and I wanted to learn more about ICs in general. I've incorporated: wide power traces, equal length wires and a ground pour on top and bottom in this project.
 
-![Schematic](img/14.png)
-![PCB](img/15.png)
-![3D](img/13.png)
-
-Case design coming soon! Check out the Case/ subdirectory!
+![Schematic](img/21.png)
+![Schematic](img/22.png)
+![PCB](img/19.png)
+![3D](img/20.png)
 
 ## BOM
 
 I know this is quite a high BOM but I don't have any components. istg it'll be so much cheaper from now on.
 
-| Footprint                                               | Quantity | Single $ | Bulk Value | Buy amount       | Link                                                  |
-| ------------------------------------------------------- | -------- | -------- | ---------- | ---------------- | ----------------------------------------------------- |
-| Capacitor Set                                           | 1        |          | 10.00      | 50 of each value | https://www.aliexpress.com/item/1005002782324319.html |
-| >>> Capacitor 0603 (10u)                                | 2        | 0.008    |            |                  |                                                       |
-| >>> Capacitor 0603 (1u)                                 | 4        | 0.016    |            |                  |                                                       |
-| >>> Capacitor 0603 (100n)                               | 11       | 0.044    |            |                  |                                                       |
-| >>> Capacitor 0603 (15p)                                | 2        | 0.008    |            |                  |                                                       |
-| >>> Capacitor 0603 (30p)                                | 2        | 0.008    |            |                  |                                                       |
-| >>> Capacitor 0603 (4.7n)                               | 1        | 0.004    |            |                  |                                                       |
-| Diode D_SOD-123 (1N4148W)                               | 7        | 0.21     | 3.00       | 100              | https://www.aliexpress.com/item/4000685043735.html    |
-| Shottsky diode D_SOD-323 (1N5819WS)                     | 2        | 0.08     | 4.00       | 100              | https://www.aliexpress.com/item/1005006207828437.html |
-| LED 0603                                                | 2        | 0.07     | 3.50       | 100              | https://www.aliexpress.com/item/1005008127880619.html |
-| USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal | 1        | 0.30     | 3.00       | 10               | https://www.aliexpress.com/item/1005008515699009.html |
-| Male Pins 2.54mm                                        | 50       | 0.50     | 4.00       | 400              | https://www.aliexpress.com/item/4001198421663.html    |
-| Resistor Set Low Values                                 | 2        |          | 5.00       | 20 per value     | https://www.aliexpress.com/item/1005007902452631.html |
-| >>> Resistor 0603 (27R)                                 | 2        | 0.005    |            |                  |                                                       |
-| >>> Resistor 0603 (60R)                                 | 2        | 0.005    |            |                  |                                                       |
-| >>> Resistor 0603 (220R)                                | 2        | 0.005    |            |                  |                                                       |
-| >>> Resistor 0603 (1k)                                  | 6        | 0.015    |            |                  |                                                       |
-| >>> Resistor 0603 (4.7K)                                | 2        | 0.005    |            |                  |                                                       |
-| >>> Resistor 0603 (5.1K)                                | 2        | 0.005    |            |                  |                                                       |
-| >>> Resistor 0603 (10k)                                 | 4        | 0.01     |            |                  |                                                       |
-| Push button 6mm x 6mm                                   | 2        | 0.10     | 2.50       | 50               | https://www.aliexpress.com/item/32815969627.html      |
-| RP2040 --- QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm          | 1        | 1.50     |            |                  | JLCPCB Assembly                                       |
-| W25Q128JVS --- SOIC-8_5.3x5.3mm_P1.27mm                 | 1        | 0.82     |            |                  | JLCPCB Assembly                                       |
-| NCP1117-3.3_TO252 --- TO-252-2                          | 1        | 0.744    |            |                  | JLCPCB Assembly                                       |
-| SN65HVD230DR --- SOIC127P599X175-8N                     | 1        | 0.516    |            |                  | JLCPCB Assembly                                       |
-| MCP2515-xSO --- SOIC-18W_7.5x11.6mm_P1.27mm             | 1        | 1.59     |            |                  | JLCPCB Assembly                                       |
-| ABM8-272-T3 --- XTAL_ABM8-272-T3                        | 1        | 0.30     |            |                  | JLCPCB Assembly                                       |
-| ABM8-16.000MHZ-B2-T --- XTAL_ABM8-16.000MHZ-B2-T        | 1        | 0.50     |            |                  | JLCPCB Assembly                                       |
-| JLCPCB Assembled PCB                                    | 1        | 58       | 58         |                  | JLCPCB Assembly                                       |
-| Total                                                   |          | 65.58    | 100        |                  |                                                       |
+| Quantity | Value                       | Cost  | URL                                                   |
+| -------- | --------------------------- | ----- | ----------------------------------------------------- |
+| 17       | Capacitor 100n              | 0.068 | https://www.aliexpress.com/item/1005002782324319.html |
+| 3        | Capacitor 1u                | 0.012 | https://www.aliexpress.com/item/1005002782324319.html |
+| 2        | Capacitor 10n               | 0.008 | https://www.aliexpress.com/item/1005002782324319.html |
+| 2        | Capacitor 10u               | 0.008 | https://www.aliexpress.com/item/1005002782324319.html |
+| 1        | Capacitor 4.7n              | 0.004 | https://www.aliexpress.com/item/1005002782324319.html |
+| 2        | TVS Diode RCLAMP0502BA      |       |                                                       |
+| 1        | SMF5V0A                     |       |                                                       |
+| 1        | 1N4148W                     |       |                                                       |
+| 3        | LED                         |       |                                                       |
+| 1        | USB_C_Receptacle_USB2.0_16P |       |                                                       |
+| 3        | Conn_01x02_Pin              |       |                                                       |
+| 1        | Conn_02x08_Odd_Even         |       |                                                       |
+| 2        | Resistor 27R                |       |                                                       |
+| 3        | Resistor 1K                 |       |                                                       |
+| 5        | Resistor DNF                |       |                                                       |
+| 2        | Resistor 60R                |       |                                                       |
+| 5        | Resistor 10K                |       |                                                       |
+| 3        | Resistor 220R               |       |                                                       |
+| 2        | Resistor 5.1K               |       |                                                       |
+| 1        | RP2040                      |       |                                                       |
+| 1        | W25Q128JVS                  |       |                                                       |
+| 1        | NCP1117-3.3_SOT223          |       |                                                       |
+| 1        | MCP2515-xSO                 |       |                                                       |
+| 1        | TCAN337G                    |       |                                                       |
+| 1        | ASE-12MHz                   |       |                                                       |
+| 1        | ASE-16MHz                   |       |                                                       |
