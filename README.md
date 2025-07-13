@@ -19,6 +19,8 @@ This is my first semi-intermediate project and I wanted to learn more about ICs 
 ![Schematic](img/22.png)
 ![PCB](img/19.png)
 ![3D](img/20.png)
+![Case](img/23.png)
+![Exploded](img/24.png)
 
 ## BOM
 

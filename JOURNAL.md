@@ -98,3 +98,7 @@ The grind never stops. Complete overhaul, new modules (using an oscillator), 4 l
 ![Rainbow PCB](img/18.png)
 ![Just the lines](img/19.png)
 ![ITS BEAUTIFUL](img/20.png)
+
+# 2025-07-13 - Case (2 hours)
+
+Added a case
